@@ -1,0 +1,24 @@
+# 忽略编译生成文件
+*.exe
+*.dll
+*.lib
+*.exp
+*.obj
+*.log
+*.txt
+upload.txt
+upload.log
+
+# 密钥（重要）
+keys/
+*.ppk
+
+# WinSCP 可再下载
+WinSCP.exe
+WinSCP.com
+WinSCP.ini
+
+# VS 编译文件
+*.pdb
+*.ilk
+*.vcxproj.user
