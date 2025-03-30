@@ -2,7 +2,6 @@
 
 ![Stars](https://img.shields.io/github/stars/A1LinLin1/Keyboardhook?style=social)
 ![Forks](https://img.shields.io/github/forks/A1LinLin1/Keyboardhook?style=social)
-![Issues](https://img.shields.io/github/issues/A1LinLin1/Keyboardhook)
 ![GitHub](https://img.shields.io/github/license/A1LinLin1/Keyboardhook)
 
 该项目是一个 Windows 系统下的键盘监听程序，具有以下特点：  
