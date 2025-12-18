@@ -38,7 +38,7 @@ cd Keyboardhook
 ### 3️⃣ 编译项目 / Compile project
 ```bash
 cl /LD myhook.cpp user32.lib shell32.lib ws2_32.lib iphlpapi.lib
-cl monitor.cpp user32.lib shell32.lib
+cl monitor.cpp user32.lib shell32.lib advapi32.lib
 ```
 
 ---
